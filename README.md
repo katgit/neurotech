@@ -2,13 +2,8 @@
 readme file
 Test repository
 
-Author: Laura 
-
+Author: Laura,Katia 
+x=5
 y=6
-
-
-
-test test 
-
 
 
