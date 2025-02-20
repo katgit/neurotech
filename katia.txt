@@ -4,3 +4,4 @@ Test repository
 
 Katia
 Katia line 2
+Katia line 3
